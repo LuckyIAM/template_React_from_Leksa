@@ -1,0 +1,22 @@
+/* .card-box{
+    width: 300px;
+    height: 180px;
+    border: 1px solid #888;
+    box-shadow: 0 0 5px 0 #888;
+} */
+/* .card__top{
+    display: grid;
+    grid-template-columns: 130px 170px;
+    margin: 7px;
+} */
+/* .left-side{
+    height: 100px;
+    margin: 7px;
+    background: no-repeat center/contain;
+} */
+.card__buttom{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 7px;
+}

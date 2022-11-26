@@ -1,0 +1,18 @@
+.warning-container{
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: #6db8bb3b;
+    display: none;
+}
+.open{
+    display: flex;
+}
+p{
+    text-align: center;
+    font-weight: 700;
+}
+.text-warning{
+    color: red;
+}

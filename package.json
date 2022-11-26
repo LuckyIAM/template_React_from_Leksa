@@ -11,8 +11,13 @@
 		"start": "webpack serve"
 	},
 	"dependencies": {
+		"bootstrap": "^5.2.3",
+		"bootstrap-icons": "^1.10.2",
 		"core-js": "^3.21.1",
+		"raw-loader": "^4.0.2",
 		"react": "^17.0.2",
+		"react-bootstrap": "^2.6.0",
+		"react-bootstrap-icons": "^1.10.2",
 		"react-dom": "^17.0.2",
 		"react-router-dom": "^6.3.0"
 	},

@@ -1,0 +1,41 @@
+header{
+    background-color: var(--main-color);
+    width: 100%;
+    height: 80px;
+}
+.wrapper__header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.file{
+    font-size: 30px;
+}
+.pen{
+    position: relative;
+    left: -5px;
+    bottom: 5px;
+    font-size: 18
+    px;
+    transform: rotate(-25deg);
+}
+nav{
+    display: flex;
+}
+.login{
+    font-size: 23px;
+}
+.header_image{
+    background: no-repeat center/cover;
+    width: 100vw;
+    height: 50vh;
+}
+.message{
+    position: relative;
+    text-align: center;
+}
+.message span{
+    color: #05647a;
+    font-weight: 700;
+}
